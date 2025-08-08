@@ -42,13 +42,10 @@ This app is a technical submission for Inovola. It demonstrates key native mobil
 
 ## 🖼️ Screenshots
 
-> _Replace below paths with real image links or assets in your repo_
-
-- 📊 Dashboard  
-  ![Dashboard](screenshots/dashboard.png)
-
-- ➕ Add Expense  
-  ![Add Expense](screenshots/add_expense.png)
+<img width="120" height="280" alt="Screenshot_20250808_033729" src="https://github.com/user-attachments/assets/9c821f77-621a-4746-9eef-c0c05da00158" />
+<img width="120" height="280" alt="Screenshot_20250808_033723" src="https://github.com/user-attachments/assets/76766bc8-6528-40ec-8f85-0b845c4fde6c" />
+<img width="120" height="280" alt="Screenshot_20250808_033709" src="https://github.com/user-attachments/assets/7ad2da9d-9524-453f-9450-a60e21faa27c" />
+<img width="120" height="280" alt="Screenshot_20250808_033657" src="https://github.com/user-attachments/assets/796b3d5e-81d4-4b7e-8a2a-3ef671bfb71f" />
 
 ## 🧪 Unit Testing
 
@@ -68,7 +65,7 @@ This app is a technical submission for Inovola. It demonstrates key native mobil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expenses-tracker.git
+   git clone https://github.com/YoussefSeddik/InovolaTask.git
    ```
 
 2. Open in Android Studio
