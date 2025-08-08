@@ -13,6 +13,7 @@ This app is a technical submission for Inovola. It demonstrates key native mobil
 - Clean and responsive UI with Compose
 - ViewModel unit testing
 - CSV export (Bonus)
+- CI/CD: GitHub Actions for Android (Bonus)
 
 ## 🧱 Architecture Breakdown
 
