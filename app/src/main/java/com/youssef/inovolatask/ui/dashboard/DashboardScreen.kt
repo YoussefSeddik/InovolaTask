@@ -92,6 +92,7 @@ fun DashboardScreen(
             )
             Spacer(Modifier.height(16.dp))
             Text(
+                color = MaterialTheme.colorScheme.onBackground,
                 text = "Recent Expenses",
                 style = MaterialTheme.typography.titleMedium,
                 modifier = Modifier
@@ -146,7 +147,7 @@ private fun HeaderSection(
         Modifier
             .fillMaxWidth()
             .height(200.dp)
-            .background(MaterialTheme.colorScheme.background)
+            .background(MaterialTheme.colorScheme.primary)
             .padding(16.dp)
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
