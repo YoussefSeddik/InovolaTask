@@ -54,6 +54,12 @@ This app is a technical submission for Inovola. It demonstrates key native mobil
 - UseCases unit test included (`[AddExpenseUseCaseTest.kt, ConvertToUSDUseCaseTest, FormatDateUseCaseTest]`)
 - Frameworks: JUnit, Turbine, Mockito
 
+## 📦 CSV export (Bonus)
+- Export expenses as csv file and you can share it.
+## 🖼️ Screenshots
+<img width="548" height="457" alt="Screenshot 2025-08-08 at 4 12 18 AM" src="https://github.com/user-attachments/assets/d17327e1-9fa7-4960-b0f5-dd7780b451ae" />
+
+
 ## 📦 Android CI workflow (Bonus) 
 - (Android CI) workflow for building, testing, and linting the project
   Triggered on pushes and pull requests to the 'main' branch.
