@@ -54,6 +54,18 @@ This app is a technical submission for Inovola. It demonstrates key native mobil
 - UseCases unit test included (`[AddExpenseUseCaseTest.kt, ConvertToUSDUseCaseTest, FormatDateUseCaseTest]`)
 - Frameworks: JUnit, Turbine, Mockito
 
+## 📦 Android CI workflow (Bonus) 
+- (Android CI) workflow for building, testing, and linting the project
+  Triggered on pushes and pull requests to the 'main' branch.
+### Steps
+1. Check out the repository
+2. Set up JDK 17 with Gradle caching
+3. Build the project
+4. Run unit tests
+5. Run lint checks
+6. Upload the generated debug APK as a build artifact and provide downloadable apk link
+    
+   
 ## 📦 How to Build and Run the App
 
 ### Prerequisites
